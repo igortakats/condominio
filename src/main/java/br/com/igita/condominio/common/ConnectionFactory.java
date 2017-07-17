@@ -14,6 +14,7 @@ import org.apache.log4j.Logger;
  * @author ivanoff
  *
  */
+@Deprecated
 public final class ConnectionFactory {
 	
 	private static Connection conn = null;
