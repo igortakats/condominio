@@ -7,7 +7,13 @@ import java.sql.SQLException;
 import org.apache.log4j.Logger;
 
 
-
+/**
+ * 
+ * Connection Factory
+ * 
+ * @author ivanoff
+ *
+ */
 public final class ConnectionFactory {
 	
 	private static Connection conn = null;
