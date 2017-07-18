@@ -17,7 +17,13 @@ public class ResourceLocator {
 	private ResourceLocator instance = null;
 	
 	private static Boolean lock = true;
-	
+
+	private static String VERSION;
+
+	static {
+		VERSION = "1.0";
+	}
+
 	private final static String resourcePath = "C:\\Users\\igt63\\OneDrive\\ws_laboratories_o2\\condominio\\src\\main\\resources";
 	private final static String resourceExtension = ".properties";
 	
