@@ -18,6 +18,7 @@ public class ResourceLocator {
 	
 	private static Boolean lock = true;
 
+	@SuppressWarnings("unused")
 	private static String VERSION;
 
 	static {

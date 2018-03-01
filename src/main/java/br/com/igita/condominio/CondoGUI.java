@@ -12,6 +12,10 @@ import javax.swing.JFormattedTextField;
 
 public class CondoGUI extends JFrame {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 2230914214193549451L;
 	private JPanel contentPane;
 	private JTable table;
 
@@ -56,9 +60,5 @@ public class CondoGUI extends JFrame {
 		tblMov.add(table);
 	}
 	
-	private void init() {
-		
-		
-	}
 
 }

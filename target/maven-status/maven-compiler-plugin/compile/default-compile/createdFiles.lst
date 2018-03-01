@@ -1,0 +1,14 @@
+br\com\igita\condominio\conversores\ConvertExtrato.class
+br\com\igita\condominio\conversores\service\MovimentacaoService.class
+br\com\igita\condominio\conversores\DAO\DAO.class
+br\com\igita\condominio\CondoGUI$1.class
+br\com\igita\condominio\common\ResourceLocator.class
+br\com\igita\condominio\conversores\IConverterExtrato.class
+br\com\igita\condominio\conversores\DAO\TbMovimentacaoDAOImpl.class
+br\com\igita\condominio\common\ConvertMonth.class
+br\com\igita\condominio\conversores\DAO\TbMovimentacaoDAO.class
+br\com\igita\condominio\conversores\ConvertExtratoToMovimentacao.class
+br\com\igita\condominio\common\ConnectionFactory.class
+br\com\igita\condominio\CondoGUI.class
+br\com\igita\condominio\conversores\entities\TbMovimentacao.class
+br\com\igita\condominio\conversores\service\MovimentacaoServiceImpl.class
